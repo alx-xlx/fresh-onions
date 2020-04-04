@@ -1,6 +1,6 @@
 #!/bin/sh
 # hello! yes, this is a public link to a google sheet, to fetch as csv; and yes, i do know.
-url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0L9HBKSet6zF_u17QEqDtcidNwVSa1gOmv1nX07ZcjcSShE1DSL-3fb73ihGmQI6vkKGjTnfYQPUu/pub?output=csv"
+url="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqSujmnoPkrliifIVfpJwdLTRpUFIHLXcYjoJoJYiu3g-vj2dMm26YEOhpaIJi0seCF0CoWGUOopa3/pub?output=csv"
 now=`date "+%Y%m%d%H%M%S"`
 out="log-$now.out.txt"
 err="log-$now.err.txt"
