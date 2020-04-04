@@ -1,5 +1,5 @@
 # [Fresh Onions](#index)
-
+<link rel="shortcut icon" type="image/png" href="https://i.imgur.com/IUk4Q9c.png">
 This is list of fresh onions providing Freedom of Information
 
 - no NSFW (Strictly)
