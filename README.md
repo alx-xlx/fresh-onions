@@ -127,11 +127,9 @@ future compatibility mess for the ecosystem of onion-capable browsers.
 - :closed_lock_with_key: secure HTTPS Onion site, protected by both
   Onion circuits and TLS, will respect browser secure/HTTPS behaviour
 
-### Feedback
+### Source Code
 
-[The issues page](https://github.com/alecmuffett/real-world-onion-sites/issues)
-is the fastest and most effective way to submit a suggestion; if you
-lack a Github account, try messaging `@alecmuffett` on Twitter.
+author : [lecmuffett](https://github.com/alecmuffett/real-world-onion-sites)
 
 ----
 [Back to Top](#fresh-onions)
