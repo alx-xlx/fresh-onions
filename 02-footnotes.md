@@ -14,13 +14,15 @@
 
 ### RWOS Status Detector
 
-- :heavy_check_mark: site up
+- :white_check_mark: site up
 - :eight_spoked_asterisk: site up, and redirected to another page
 - :no_entry_sign: site up, but could not access the page
 - :stop_sign: site up, but reported a system error
 - :sos: site returned no data, or is down, or curl experienced a
   transient network error
 - :new: site is newly added, no data yet
+
+You can also see the [history of updates](https://github.com/alecmuffett/real-world-onion-sites/commits/master/README.md).
 
 ### Codes & Exit Statuses
 
@@ -64,9 +66,11 @@ future compatibility mess for the ecosystem of onion-capable browsers.
 - :closed_lock_with_key: secure HTTPS Onion site, protected by both
   Onion circuits and TLS, will respect browser secure/HTTPS behaviour
 
-### Source Code
+### Feedback
 
-author : [alecmuffett](https://github.com/alecmuffett/real-world-onion-sites)
+[The issues page](https://github.com/alecmuffett/real-world-onion-sites/issues)
+is the fastest and most effective way to submit a suggestion; if you
+lack a Github account, try messaging `@alecmuffett` on Twitter.
 
 ----
 [Back to Top](#real-world-onion-sites)
