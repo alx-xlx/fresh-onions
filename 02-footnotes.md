@@ -14,7 +14,7 @@
 
 ### RWOS Status Detector
 
-- :white_check_mark: site up
+- :heavy_check_mark: site up
 - :eight_spoked_asterisk: site up, and redirected to another page
 - :no_entry_sign: site up, but could not access the page
 - :stop_sign: site up, but reported a system error
