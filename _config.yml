@@ -1,7 +1,7 @@
 theme: jekyll-theme-modernist
 title: Fresh Onions
 description: Fresh Onions
-logo: onion.png
+logo: images/onion.png
 show_downloads: true
 google_analytics:
 plugins:
