@@ -1,2 +1,22 @@
 git clone https://github.com/alx-xlx/fresh-onions.git
 ./wrapper.sh
+
+git config remote.origin.url https://{USERNAME}:{PASSWORD}@github.com/alx-xlx/fresh-onions.git
+git config user.email "xr4nchy@gmail.com"
+git config user.name "r4nchy"
+git config 
+git add .
+git commit -m "From Server"
+git push https://github.com/alx-xlx/fresh-onions.git
+
+
+
+
+TROUBLESHOOT :
+
+git config -l
+
+
+THis will store your git credential for 8 hours (28800)
+git config credential.helper 'cache --timeout=28800'
+
