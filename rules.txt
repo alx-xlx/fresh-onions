@@ -1,3 +1,10 @@
+Run :
+
+./run.sh
+
+1. Edit wrapper.sh and paste the link to the Google Sheet of the onion links
+
+
 git clone https://github.com/alx-xlx/fresh-onions.git
 ./wrapper.sh
 
