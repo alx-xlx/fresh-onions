@@ -1,9 +1,7 @@
-<!-- # [Fresh Onions](#index) -->
+# [Fresh Onions](#index)
+<a href="https://alx-xlx.github.io/fresh-onions/" rel="nofollow"><img src="https://i.imgur.com/IUk4Q9c.png" alt="Open In Colab" class='centre' data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" height="100" style="max-width:20%;display:block;margin-left:auto;margin-right:auto;"></a>
 
-<h1 align="center"><a href="https://alx-xlx.github.io/fresh-onions">Fresh Onions</a></h1>
-
-<p align="center">
-<a href="https://alx-xlx.github.io/fresh-onions/" rel="nofollow"><img src="https://i.imgur.com/IUk4Q9c.png" height="100" style="max-width:20%;display:block;margin-left:auto;margin-right:auto;"></a></p>
+[Onion-Audio](/audio/audio.mp3)
 
 This is list of fresh onions providing Freedom of Information
 
@@ -29,20 +27,20 @@ This is list of fresh onions providing Freedom of Information
 * link: [https://privacyintyqcroe.onion/](https://privacyintyqcroe.onion/)
 * plain: `https://privacyintyqcroe.onion/`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-04-12 20:49:05+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-11 20:57:44+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-09 22:31:44+00:00">:heavy_check_mark:</span><span title="attempts=6 code=903 exit=7 time=2020-04-09 22:07:32+00:00">:sos:</span>
+* check: <span title="attempts=1 code=502 exit=0 time=2020-04-27 07:17:26+00:00">:stop_sign:</span>
 
 ### [Riseup Home](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/) :wrench:
 * link: [http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/)
 * plain: `http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/`
 * proof: [link](https://riseup.net/en/security/network-security/tor#riseups-tor-onion-services)
-* check: <span title="attempts=1 code=200 exit=0 time=2020-04-12 20:48:59+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-11 20:57:40+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-09 22:31:46+00:00">:heavy_check_mark:</span><span title="attempts=6 code=903 exit=7 time=2020-04-09 22:07:32+00:00">:sos:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-04-27 07:16:51+00:00">:heavy_check_mark:</span>
 
 ### [Riseup Onion Index](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services) :wrench:
 *provides shared notepad, file sharing, code hosting, and other services*
 * link: [http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services)
 * plain: `http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services`
 * proof: [link](https://riseup.net/en/security/network-security/tor#riseups-tor-onion-services)
-* check: <span title="attempts=1 code=200 exit=0 time=2020-04-12 20:48:59+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-11 20:57:40+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-09 22:31:45+00:00">:heavy_check_mark:</span><span title="attempts=6 code=903 exit=7 time=2020-04-09 22:07:32+00:00">:sos:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-04-27 07:16:51+00:00">:heavy_check_mark:</span>
 
 ----
 ## Freedom Of Information
@@ -51,27 +49,27 @@ This is list of fresh onions providing Freedom of Information
 * link: [https://danwin1210.me](https://danwin1210.me)
 * plain: `https://danwin1210.me`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-04-12 20:48:57+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-11 20:57:36+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-09 22:31:40+00:00">:heavy_check_mark:</span><span title="attempts=6 code=903 exit=7 time=2020-04-09 22:07:32+00:00">:sos:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-04-27 07:16:48+00:00">:heavy_check_mark:</span>
 
 ### [Freedom of Information](http://5pxgor7yuvsjafwr.onion/) :wrench:
 * link: [http://5pxgor7yuvsjafwr.onion/](http://5pxgor7yuvsjafwr.onion/)
 * plain: `http://5pxgor7yuvsjafwr.onion/`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-04-12 20:49:01+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-11 20:57:44+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-09 22:31:45+00:00">:heavy_check_mark:</span><span title="attempts=6 code=903 exit=7 time=2020-04-09 22:07:32+00:00">:sos:</span>
+* check: <span title="attempts=3 code=200 exit=0 time=2020-04-27 07:23:33+00:00">:heavy_check_mark:</span>
 
 ### [Rumi Books](http://rumibookzo4fkho4.onion/) :wrench:
 *eBooks, Documents, Magazines*
 * link: [http://rumibookzo4fkho4.onion/](http://rumibookzo4fkho4.onion/)
 * plain: `http://rumibookzo4fkho4.onion/`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-04-12 20:49:08+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-11 20:57:43+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-09 22:31:44+00:00">:heavy_check_mark:</span><span title="attempts=6 code=903 exit=7 time=2020-04-09 22:07:32+00:00">:sos:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-04-27 07:16:55+00:00">:heavy_check_mark:</span>
 
 ### [The Anarchist Library](https://theanarchistlibrary.org/category/topic) :closed_lock_with_key:
 *Archive of Books*
 * link: [https://theanarchistlibrary.org/category/topic](https://theanarchistlibrary.org/category/topic)
 * plain: `https://theanarchistlibrary.org/category/topic`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-04-12 20:48:58+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-11 20:57:36+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-09 22:31:44+00:00">:heavy_check_mark:</span><span title="attempts=6 code=903 exit=7 time=2020-04-09 22:07:32+00:00">:sos:</span>
+* check: <span title="attempts=6 code=903 exit=7 time=2020-04-27 07:22:51+00:00">:sos:</span>
 
 ----
 ## Hosting
@@ -80,7 +78,7 @@ This is list of fresh onions providing Freedom of Information
 * link: [http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/](http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/)
 * plain: `http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-04-12 20:49:00+00:00">:heavy_check_mark:</span><span title="attempts=2 code=200 exit=0 time=2020-04-11 21:01:31+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-09 22:31:41+00:00">:heavy_check_mark:</span><span title="attempts=6 code=903 exit=7 time=2020-04-09 22:07:32+00:00">:sos:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-04-27 07:16:52+00:00">:heavy_check_mark:</span>
 
 ----
 ## Market
@@ -89,7 +87,7 @@ This is list of fresh onions providing Freedom of Information
 * link: [http://kw4zlnfhxje7top26u57iosg55i7dzuljjcyswo2clgc3mdliviswwyd.onion](http://kw4zlnfhxje7top26u57iosg55i7dzuljjcyswo2clgc3mdliviswwyd.onion)
 * plain: `http://kw4zlnfhxje7top26u57iosg55i7dzuljjcyswo2clgc3mdliviswwyd.onion`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-04-12 20:48:59+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-11 20:57:38+00:00">:heavy_check_mark:</span><span title="attempts=1 code=200 exit=0 time=2020-04-09 22:31:45+00:00">:heavy_check_mark:</span><span title="attempts=6 code=903 exit=7 time=2020-04-09 22:07:32+00:00">:sos:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-04-27 07:16:51+00:00">:heavy_check_mark:</span>
 
 ----
 ## Flaky Sites
@@ -169,3 +167,4 @@ author : [lecmuffett](https://github.com/alecmuffett/real-world-onion-sites)
 
 ----
 [Back to Top](#fresh-onions)
+
