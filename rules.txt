@@ -2,7 +2,7 @@ git clone https://github.com/alx-xlx/fresh-onions.git
 ./wrapper.sh
 
 git config remote.origin.url https://{USERNAME}:{PASSWORD}@github.com/alx-xlx/fresh-onions.git
-git config user.email "xr4nchy@gmail.com"
+git config user.email "xxxxxx@gmail.com"
 git config user.name "r4nchy"
 git config 
 git add .
