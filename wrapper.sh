@@ -6,7 +6,7 @@ out="log-$now.out.txt"
 err="log-$now.err.txt"
 tmp="/tmp/onion-tmp-$$.csv"
 csv="master.csv"
-exe="./rwos-db.py"
+exe="python3 rwos-db.py"
 
 exec </dev/null >$out 2>$err
 
