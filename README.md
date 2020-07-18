@@ -29,20 +29,20 @@ This is list of fresh onions providing Freedom of Information
 * link: [https://privacyintyqcroe.onion/](https://privacyintyqcroe.onion/)
 * plain: `https://privacyintyqcroe.onion/`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 12:44:10+00:00">:heavy_check_mark:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 19:08:14+00:00">:heavy_check_mark:</span>
 
 ### [Riseup Home](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/) :wrench:
 * link: [http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/)
 * plain: `http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/`
 * proof: [link](https://riseup.net/en/security/network-security/tor#riseups-tor-onion-services)
-* check: <span title="attempts=6 code=903 exit=7 time=2020-07-18 12:49:08+00:00">:sos:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 19:08:14+00:00">:heavy_check_mark:</span>
 
 ### [Riseup Onion Index](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services) :wrench:
 *provides shared notepad, file sharing, code hosting, and other services*
 * link: [http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services)
 * plain: `http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services`
 * proof: [link](https://riseup.net/en/security/network-security/tor#riseups-tor-onion-services)
-* check: <span title="attempts=6 code=903 exit=7 time=2020-07-18 12:49:08+00:00">:sos:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 19:08:14+00:00">:heavy_check_mark:</span>
 
 ----
 ## Freedom Of Information
@@ -51,27 +51,27 @@ This is list of fresh onions providing Freedom of Information
 * link: [https://danwin1210.me](https://danwin1210.me)
 * plain: `https://danwin1210.me`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 12:44:04+00:00">:heavy_check_mark:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 19:08:08+00:00">:heavy_check_mark:</span>
 
 ### [Freedom of Information](http://5pxgor7yuvsjafwr.onion/) :wrench:
 * link: [http://5pxgor7yuvsjafwr.onion/](http://5pxgor7yuvsjafwr.onion/)
 * plain: `http://5pxgor7yuvsjafwr.onion/`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 12:44:08+00:00">:heavy_check_mark:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 19:08:12+00:00">:heavy_check_mark:</span>
 
 ### [Rumi Books](http://rumibookzo4fkho4.onion/) :wrench:
 *eBooks, Documents, Magazines*
 * link: [http://rumibookzo4fkho4.onion/](http://rumibookzo4fkho4.onion/)
 * plain: `http://rumibookzo4fkho4.onion/`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=6 code=903 exit=7 time=2020-07-18 12:49:14+00:00">:sos:</span>
+* check: <span title="attempts=6 code=903 exit=7 time=2020-07-18 19:13:47+00:00">:sos:</span>
 
 ### [The Anarchist Library](https://theanarchistlibrary.org/category/topic) :closed_lock_with_key:
 *Archive of Books*
 * link: [https://theanarchistlibrary.org/category/topic](https://theanarchistlibrary.org/category/topic)
 * plain: `https://theanarchistlibrary.org/category/topic`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 12:44:05+00:00">:heavy_check_mark:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 19:08:09+00:00">:heavy_check_mark:</span>
 
 ----
 ## Hosting
@@ -80,7 +80,7 @@ This is list of fresh onions providing Freedom of Information
 * link: [http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/](http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/)
 * plain: `http://fhostingineiwjg6cppciac2bemu42nwsupvvisihnczinok362qfrqd.onion/`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=6 code=903 exit=7 time=2020-07-18 12:49:08+00:00">:sos:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 19:08:12+00:00">:heavy_check_mark:</span>
 
 ----
 ## Market
@@ -89,7 +89,7 @@ This is list of fresh onions providing Freedom of Information
 * link: [http://kw4zlnfhxje7top26u57iosg55i7dzuljjcyswo2clgc3mdliviswwyd.onion](http://kw4zlnfhxje7top26u57iosg55i7dzuljjcyswo2clgc3mdliviswwyd.onion)
 * plain: `http://kw4zlnfhxje7top26u57iosg55i7dzuljjcyswo2clgc3mdliviswwyd.onion`
 * proof: see tls/ssl certificate
-* check: <span title="attempts=6 code=903 exit=7 time=2020-07-18 12:49:08+00:00">:sos:</span>
+* check: <span title="attempts=1 code=200 exit=0 time=2020-07-18 19:08:10+00:00">:heavy_check_mark:</span>
 
 ----
 ## Flaky Sites
