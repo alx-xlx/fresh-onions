@@ -27,3 +27,12 @@ git config -l
 THis will store your git credential for 8 hours (28800)
 git config credential.helper 'cache --timeout=28800'
 
+-------------------------------
+
+# Tor
+apt install torsocks -y
+# service tor reload
+# service tor start
+# curl http://checkip.amazonaws.com/
+# curl --socks5 127.0.0.1:9050 http://checkip.amazonaws.com/
+# curl --socks5 127.0.0.1:9150 http://checkip.amazonaws.com/

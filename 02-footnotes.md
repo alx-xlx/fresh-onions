@@ -64,6 +64,34 @@ future compatibility mess for the ecosystem of onion-capable browsers.
 - :closed_lock_with_key: secure HTTPS Onion site, protected by both
   Onion circuits and TLS, will respect browser secure/HTTPS behaviour
 
+## Setup
+
+This script runs on a Linux System.
+
+You can also run a linux system on Windows OS as shown [here](https://gist.github.com/alx-xlx/82db67e2b2b06602625a0ee0bfc3d9a9)
+
+### Pre-Requisites
+```sh
+sudo apt-get install tor -y  # Install TOR
+sudo apt-get install python3 -y # Install Python3
+sudo apt-get install python3-pip -y # Install Python3 Package Manager
+```
+
+
+
+```sh
+git clone https://github.com/alx-xlx/fresh-onions.git
+cd fresh-onions
+bash run.sh
+```
+
+### Troubleshoot
+
+```sh
+curl http://checkip.amazonaws.com   # Check Surface IP (Original IP)
+curl --socks5 127.0.0.1:9050 http://checkip.amazonaws.com   # Check Tor IP
+```
+
 ### Source Code
 
 author : [lecmuffett](https://github.com/alecmuffett/real-world-onion-sites)
